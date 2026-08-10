@@ -13,5 +13,7 @@ public static void main(String[] args) {
     listOfIntegers.stream()
             .filter(n -> !setList.add(n))
             .forEach(System.out::println);
+        System.out.println("Duplicate numbers are:Changes 1 " + setList);
     }
+
 }
