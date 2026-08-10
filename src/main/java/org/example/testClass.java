@@ -27,7 +27,10 @@ public class testClass {
         str1=str1.concat(" word");
         System.out.println(str1);
 
-
+        String str2="hello";
+        str2=str2.concat(" word");
+        System.out.println(str2);
+        System.out.println("Project 1...");
 
     }
 }
