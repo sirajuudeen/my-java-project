@@ -13,6 +13,6 @@ public class mainClass {
         //going to modify existing date time
         date.setTime(date.getTime()+30000L);
         System.out.println(bankAccount1.dateOpened());
-
+        System.out.println("Bank Duplicate numbers are:Changes 3 ");
     }
 }
