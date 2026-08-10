@@ -23,10 +23,10 @@ public class testClass {
         str.concat("world");
         System.out.println(str);
 
-        String str1="hello";
-        str1=str1.concat(" word");
-        System.out.println(str1);
-
+        String str5="hello";
+        str5=str5.concat(" word");
+        System.out.println(str5);
+        System.out.println("Chagnes applied 5");
 
 
     }
