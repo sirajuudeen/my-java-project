@@ -19,14 +19,14 @@ public class testClass {
                 .filter(i -> searchName.equals(users.get(i)))
                 .findFirst();*/
 
-        String str="hello";
+        String str = "hello";
         str.concat("world");
         System.out.println(str);
 
-      String str1="hello";
-      str1=str1.concat(" word");
-      System.out.println(str1);
-      System.out.println("changes 1");
+        String str1 = "hello";
+        str1 = str1.concat(" word");
+        System.out.println(str1);
+        System.out.println("changes 1");
 
     }
 }
